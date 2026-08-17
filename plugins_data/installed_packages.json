@@ -1,0 +1,5 @@
+[
+    "pyautogui",
+    "pycaw",
+    "comtypes"
+]
